@@ -10,4 +10,4 @@ inline uintptr_t decrypt_uworld(uint64_t encrypted)
         _byteswap_uint64(encrypted ^ 0x012F546CULL) - 1274101633ULL
     );
 }
-//
+////
