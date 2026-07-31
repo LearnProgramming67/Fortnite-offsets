@@ -1,7 +1,7 @@
 inline static constexpr uintptr_t GWorld  = 0x1B2439A0;  
 
 
-
+//update
 inline uintptr_t decrypt_uworld(uint64_t encrypted)
 {
     if (!encrypted)
